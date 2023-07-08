@@ -542,6 +542,14 @@ video {
   background-color: hsl(179 100% 13% / var(--tw-bg-opacity));
 }
 
+.font-bold {
+  font-weight: 700;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
 .text-neutral-transparent-white {
   color: hsla(0, 0%, 100%, 0.75);
 }
@@ -559,4 +567,12 @@ video {
 .text-primary-darker-cyan {
   --tw-text-opacity: 1;
   color: hsl(179 100% 13% / var(--tw-text-opacity));
+}
+
+.underline {
+  text-decoration-line: underline;
+}
+
+.underline-offset-2 {
+  text-underline-offset: 2px;
 }
