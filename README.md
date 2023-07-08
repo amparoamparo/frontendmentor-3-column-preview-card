@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- [Live Site URL](https://amparoamparo.github.io/frontendmentor-3-column-preview-card/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-3column-preview-card-component-using-tailwind-css-6XVXQsLv56)
+- [Live version](https://amparoamparo.github.io/frontendmentor-3-column-preview-card/)
 
 ## My process
 
