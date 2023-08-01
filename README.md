@@ -55,7 +55,7 @@ Although it wasn't a requirement, I also implemented styling for tablet-sized vi
 
 ### Built with
 
-- Semantic HTML5
+- Semantic HTML
 - Tailwind CSS
 - CSS Grid
 - Mobile-first workflow
